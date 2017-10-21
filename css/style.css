@@ -1,6 +1,43 @@
-#box {
-	height: 150px; 
-	width: 150px; 
-	background-color: orange; 
-	margin: 25px;
+
+
+
+
+.header_style {
+   
+    background-color:#232735;
+    color:#fff!important;
+
+
+  color: white;
+
+  padding: 1% 40% 1% 40% ;
+
+    margin: 0px;
+    
+
 }
+
+
+
+
+
+.profile_pic {
+
+
+	
+    float: left ;
+    height: 40%;
+    width: 40%;
+}
+
+body {
+	 margin: 0px;
+     
+    background-color:#E7DFDD;
+}
+
+
+
+
+
+
