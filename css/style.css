@@ -4,16 +4,13 @@
 
 .header_style {
    
-    background-color:#232735;
-    color:#fff!important;
-
-
-  color: white;
-
-  padding: 1% 40% 1% 40% ;
-
-    margin: 0px;
-    
+				background-color:#232735;
+    			color:#fff!important;
+  				color: white;
+  			    padding: 1% 45% 1% 45% ;
+     			overflow: hidden;
+    			white-space: nowrap;
+    			font-size: 200%;
 
 }
 
@@ -31,7 +28,7 @@
 }
 
 body {
-	 margin: 0px;
+	
      
     background-color:#E7DFDD;
 }
