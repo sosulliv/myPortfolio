@@ -1,9 +1,12 @@
 
+
 body {
   margin: 0;
   padding: 0;
   background: #ccc;
 }
+
+/*Navigation set up*/
  
 .nav ul {
   list-style: none;
@@ -54,6 +57,9 @@ body {
      padding-right: 2%;
   }
  
+
+ /*Header set up*/
+
  
 .header_style {
    
@@ -81,6 +87,7 @@ body {
 
 
 
+/*Content set up*/
 
 html, body {
   height: 100%;
@@ -115,16 +122,7 @@ html, body {
   margin-top: 2%;
 }
 
-.profile_pic{
-
-	height:60%;
-	width:25%;
-	padding-left: 1%;
-	float: left;
-	position: relative;
-	margin: 1%;
-
-}
+/*Footer setup */
 
 .footer {
   height: 50px;
@@ -172,6 +170,16 @@ html, body {
 }
 
 
+.profile_pic{
+
+	height:60%;
+	width:25%;
+	padding-left: 1%;
+	float: left;
+	position: relative;
+	margin: 1%;
+
+}
 
 
 /* Social Media Buttons */
